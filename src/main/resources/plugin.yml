@@ -1,0 +1,4 @@
+name: Test123
+version: '${project.version}'
+main: de.lunaarix.test123.Test123
+api-version: 1.18
