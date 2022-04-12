@@ -6,7 +6,7 @@ public final class Test123 extends JavaPlugin {
 
     @Override
     public void onEnable() {
-        // Plugin startup logic
+
 
     }
 
